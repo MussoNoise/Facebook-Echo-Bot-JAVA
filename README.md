@@ -20,6 +20,6 @@ Remember to set eclipse compile level to 1.7. (1.8 is not yet support by GAE)
 - Set your webhook:  
    - CallBack URL https://1-dot%yourGAEid.appspot.com/facebookbot
    -verfy test: verify
-  -Messenger action: message_reads, messages, messaging_postbacks
+   -Messenger action: message_reads, messages, messaging_postbacks
 
 
